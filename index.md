@@ -2,8 +2,8 @@ Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently 
 
 ## Personal Profile
 
-**Advisor**	Prof. Byoungyoung Lee, Seoul National University.  
-**Office**	Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (P.O. 08826)  
+**Advisor** <t> Prof. Byoungyoung Lee, Seoul National University.  
+**Office**	<t> Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (P.O. 08826)  
 **E-mail**	gwangmu(at)snu.ac.kr
 
 ## Education
