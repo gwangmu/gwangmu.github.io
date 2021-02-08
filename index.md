@@ -1,4 +1,4 @@
-Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. Please visit [System Security Laboratory (compsec)] for more ongoing security-related research topics that my research group is currently studying.
+Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. Please visit [System Security Laboratory (compsec)](compsec.snu.ac.kr) for more ongoing security-related research topics that my research group is currently studying.
 
 ## Bio
 
