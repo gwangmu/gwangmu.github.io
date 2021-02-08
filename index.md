@@ -7,13 +7,13 @@ Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently 
 
 # Education
 
-### 2017.03 - Present
+**2017.03 - Present**  
 *Ph.D student*, Department of Electrical and Computer Engineering, SNU.
 
-### 2014.09 - 2017.02
+**2014.09 - 2017.02**  
 *M.S.*, Department of Computer Science and Engineering, POSTECH.  
 
-### 2010.03 - 2014.08
+**2010.03 - 2014.08**  
 *B.S.*, Department of Physics, POSTECH.  
 *B.S.*, Department of Computer Science and Engineering, POSTECH.
 
