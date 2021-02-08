@@ -3,19 +3,15 @@
 + Department of Electrical and Computer Engineering
 + Seoul National University (SNU)
 
-**Advisor**	Prof. Byoungyoung Lee, Seoul National University.
-
-**Office**	Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (P.O. 08826)
-
+**Advisor**	Prof. Byoungyoung Lee, Seoul National University.  
+**Office**	Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (P.O. 08826)  
 **E-mail**	gwangmu(at)snu.ac.kr
 
 ## Education
 
-**2017.03 -**         Ph.D student, Department of Electrical and Computer Engineering, SNU.
-
-**2014.09 - 2017.02**	M.S. in Department of Computer Science and Engineering, POSTECH.
-
-**2010.03 - 2014.08**	B.S. in Department of Physics, POSTECH.
+**2017.03 -**         Ph.D student, Department of Electrical and Computer Engineering, SNU.  
+**2014.09 - 2017.02**	M.S. in Department of Computer Science and Engineering, POSTECH.  
+**2010.03 - 2014.08**	B.S. in Department of Physics, POSTECH.  
                       B.S. in Department of Computer Science and Engineering, POSTECH.
 
 ### Markdown
