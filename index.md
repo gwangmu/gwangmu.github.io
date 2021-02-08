@@ -8,14 +8,14 @@ E) gwangmu@snu.ac.kr
 ## Education
 
 ### 2017.03 - Present
-**Ph.D student**, Department of Electrical and Computer Engineering, SNU.
+*Ph.D student*, Department of Electrical and Computer Engineering, SNU.
 
 ### 2014.09 - 2017.02
-**M.S.**, Department of Computer Science and Engineering, POSTECH.  
+*M.S.*, Department of Computer Science and Engineering, POSTECH.  
 
 ### 2010.03 - 2014.08
-**B.S.**, Department of Physics, POSTECH.  
-**B.S.**, Department of Computer Science and Engineering, POSTECH.
+*B.S.*, Department of Physics, POSTECH.  
+*B.S.*, Department of Computer Science and Engineering, POSTECH.
 
 ### Markdown
 
