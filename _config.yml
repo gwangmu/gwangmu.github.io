@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: Gwangmu Lee
 logo: gwangmu.jpg
-github:
-  is_project_page: false
+is_project_page: false
