@@ -1,4 +1,4 @@
-Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. I have previously studied compiler techniques such as offloading and computer architecture issues. Please visit [System Security Laboratory (compsec)](compsec.snu.ac.kr), my research group led by my advisor [Byoungyoung Lee](lifeasageek.github.io), for more ongoing security-related research topics.
+Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. I have previously studied compiler techniques such as offloading and computer architecture issues. Please visit [System Security Laboratory (compsec)](http://compsec.snu.ac.kr), my research group led by my advisor [Byoungyoung Lee](http://lifeasageek.github.io), for more ongoing security-related research topics.
 
 # Education
 
