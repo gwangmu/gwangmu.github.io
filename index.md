@@ -9,11 +9,12 @@
 
 **E-mail**	gwangmu(at)snu.ac.kr
 
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/gwangmu/gwangmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**2017.03 -**         Ph.D student, Department of Electrical and Computer Engineering, SNU.
+**2014.09 - 2017.02**	M.S. in Department of Computer Science and Engineering, POSTECH.
+**2010.03 - 2014.08**	B.S. in Department of Physics, POSTECH.
+                      B.S. in Department of Computer Science and Engineering, POSTECH.
 
 ### Markdown
 
