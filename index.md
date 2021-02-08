@@ -45,9 +45,10 @@ Korea Foundation for Advanced Study (KFAS), March 2015 - February 2020
 
 # Teaching Experience
 
-#### Teaching Assistant
-Object Oriented Programming (CSED232), POSTECH, Fall 2015.
-Computer Architecture (CSED311), POSTECH, Spring 2016.
-Computer Organization (ECE322), SNU, Spring 2017.
-Digital Logic Design (ECE201), SNU, Fall 2017.
+### Teaching Assistant
+
+Object Oriented Programming (CSED232), POSTECH, Fall 2015.  
+Computer Architecture (CSED311), POSTECH, Spring 2016.  
+Computer Organization (ECE322), SNU, Spring 2017.  
+Digital Logic Design (ECE201), SNU, Fall 2017.  
 Computer Organization (ECE322), SNU, Spring 2020.
