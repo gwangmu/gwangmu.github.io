@@ -14,9 +14,9 @@ Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently 
 
 # Publications
 
-**Architecture-aware Automatic Computation Offload for Native Applications**  
-**Gwangmu Lee**, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
-The 48th Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), December 2015
+**Constraint-guided Directed Greybox Fuzzing (to appear)**  
+**Gwangmu Lee**, Woochul Shim, and Byoungyoung Lee  
+The 30th USENIX Security Symposium (**Security**), August 2021
 
 **Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation**  
 Dayeol Lee, **Gwangmu Lee**, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
@@ -26,9 +26,9 @@ The 45th International Symposium on Computer Architecture (**ISCA**), June 2018
 Dongju Chae, Joonsung Kim, **Gwangmu Lee**, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
 2018 USENIX Annual Technical Conference (**ATC**), June 2018
 
-**Constraint-guided Directed Greybox Fuzzing (to appear)**  
-**Gwangmu Lee**, Woochul Shim, and Byoungyoung Lee  
-The 30th USENIX Security Symposium (**Security**), August 2021
+**Architecture-aware Automatic Computation Offload for Native Applications**  
+**Gwangmu Lee**, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
+The 48th Annual IEEE/ACM International Symposium on Microarchitecture (**MICRO**), December 2015
 
 # Recognition
 
