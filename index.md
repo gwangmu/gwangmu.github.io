@@ -5,7 +5,7 @@ Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently 
 **[T]** +82 10 4114 7441  
 **[E]** gwangmu@snu.ac.kr  
 
-## Education
+# Education
 
 ### 2017.03 - Present
 *Ph.D student*, Department of Electrical and Computer Engineering, SNU.
@@ -17,9 +17,9 @@ Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently 
 *B.S.*, Department of Physics, POSTECH.  
 *B.S.*, Department of Computer Science and Engineering, POSTECH.
 
-## Publications
+# Publications
 
-### Architecture-aware Automatic Computation Offload for Native Applications
+#### Architecture-aware Automatic Computation Offload for Native Applications
 *Gwangmu Lee*, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
 The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), December 2015
 
