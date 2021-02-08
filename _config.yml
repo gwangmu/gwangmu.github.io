@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Gwangmu Lee
 logo: gwangmu.jpg
-is_project_page: false
 description: gwangmu@snu.ac.kr
+github:
+  is_project_page: false
