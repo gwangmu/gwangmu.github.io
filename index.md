@@ -1,20 +1,20 @@
-Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. Please visit [System Security Laboratory (compsec)](compsec.snu.ac.kr), my research group led by my advisor [Byoungyoung Lee](lifeasageek.github.io), for more ongoing security-related research topics.
+Hi there! I'm a Ph.D. student at Seoul National University (SNU). I'm currently interested in various computer security issues, especially in fuzz testing. I have previously studied some compiler techniques and computer architecture issues. Please visit [System Security Laboratory (compsec)](compsec.snu.ac.kr), my research group led by my advisor [Byoungyoung Lee](lifeasageek.github.io), for more ongoing security-related research topics.
 
-L) Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (P.O. 08826)  
+L) Room 653-1, Bldg. 301, Gwanak-ro 1, Gwanak-gu, Seoul, Korea Rep. (PO 08826)  
 C) +82 10 4114 7441  
-E) gwangmu(at)snu.ac.kr  
+E) gwangmu@snu.ac.kr  
 
 ## Education
 
 ### 2017.03 - Present
-Ph.D student, Department of Electrical and Computer Engineering, SNU.
+**Ph.D student** in Department of Electrical and Computer Engineering, SNU.
 
 ### 2014.09 - 2017.02
-M.S. in Department of Computer Science and Engineering, POSTECH.  
+**M.S.** in Department of Computer Science and Engineering, POSTECH.  
 
 ### 2010.03 - 2014.08
-B.S. in Department of Physics, POSTECH.  
-B.S. in Department of Computer Science and Engineering, POSTECH.
+**B.S.** in Department of Physics, POSTECH.  
+**B.S.** in Department of Computer Science and Engineering, POSTECH.
 
 ### Markdown
 
