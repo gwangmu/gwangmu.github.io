@@ -205,8 +205,8 @@ content:
             url: https://jokebox24.blog.me
         description: |
           During when I was a committee member of the college game development group,
-          there were not many game development tools for people who are not accustomed to
-          programming. This was especially a tough challenge for a college group, as lots of
+          there were not many game development tools for programming novices. 
+          This was especially a tough challenge for a college group, as lots of
           new members (i.e., freshmen) do not have preliminary knowledge of basic programming.
           This prompted me to design a simple game development framework that any new C/C++ beginners can easily access.
 
