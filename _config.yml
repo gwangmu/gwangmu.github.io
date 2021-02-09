@@ -197,7 +197,8 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: >
+  "Last update: February 9th, 2021"
 
 # Build settings
 remote_theme: sproogen/resume-theme
