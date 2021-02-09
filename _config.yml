@@ -127,7 +127,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: "Constraint-guided Directed Greybox Fuzzing"
+        title: "Constraint-guided Directed Greybox Fuzzing (to appear)"
         link: https://www.usenix.org/conference/usenixsecurity21 
         link_text: >
           Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
