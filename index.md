@@ -32,18 +32,18 @@ The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), D
 
 # Recognition
 
-**National Science and Engineering Scholarship**  
-Korea Student Aid Foundation (KOSAF), March 2010 - February 2014
-
 **26th Graduate Scholarship Student**  
 Korea Foundation for Advanced Study (KFAS), March 2015 - February 2020
+
+**National Science and Engineering Scholarship**  
+Korea Student Aid Foundation (KOSAF), March 2010 - February 2014
 
 # Teaching Experience
 
 ### Teaching Assistant
 
-Object Oriented Programming (CSED232), POSTECH, Fall 2015.  
-Computer Architecture (CSED311), POSTECH, Spring 2016.  
-Computer Organization (ECE322), SNU, Spring 2017.  
+Computer Organization (ECE322), SNU, Spring 2020.  
 Digital Logic Design (ECE201), SNU, Fall 2017.  
-Computer Organization (ECE322), SNU, Spring 2020.
+Computer Organization (ECE322), SNU, Spring 2017.  
+Computer Architecture (CSED311), POSTECH, Spring 2016.  
+Object Oriented Programming (CSED232), POSTECH, Fall 2015.  
