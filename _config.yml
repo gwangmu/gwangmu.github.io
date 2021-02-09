@@ -80,8 +80,8 @@ content:
     content:
       - layout: top-middle
         title: March 2010 - August 2014
-        link: |
-          B.S., Department of Physics and Department of Computer Science and Engineering, POSTECH
+        link: https://postech.ac.kr
+        link_text: B.S., Department of Physics and Department of Computer Science and Engineering, POSTECH
         additional_links:
           - title: Department of Physics
             icon: fas fa-atom
@@ -89,9 +89,6 @@ content:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
