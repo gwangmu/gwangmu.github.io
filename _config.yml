@@ -181,23 +181,15 @@ content:
     layout: list 
     content:
       - layout: top-middle
-        quote: > 
+        quote: | 
           Computer Organization (ECE322), SNU, Spring 2020.  
 
-      - layout: top-middle
-        quote: >
           Digital Logic Design (ECE201), SNU, Fall 2017.  
 
-      - layout: top-middle
-        quote: >
           Computer Organization (ECE322), SNU, Spring 2017.  
 
-      - layout: top-middle
-        quote: >
           Computer Architecture (CSED311), POSTECH, Spring 2016.  
 
-      - layout: top-middle
-        quote: >
           Object Oriented Programming (CSED232), POSTECH, Fall 2015.
 
 # Footer
