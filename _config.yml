@@ -89,8 +89,30 @@ content:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        description: I started my college years with the <mark>physics</mark> major, but soon after I decided to pursue my old interest in <mark>computer engineering</mark> and double-major it.
+
+      - layout: top-middle
+        title: September 2014 - February 2017
+        link: https://postech.ac.kr
+        link_text: M.S., Department of Computer Science and Engineering, POSTECH
+        additional_links:
+          - title: Department of Computer Science and Engineering 
+            icon: fas fa-laptop-code
+            url: https://cse.postech.ac.kr
+        description: |
+          During my first graduate years, I studied compiler techniques leveraging the <mark>LLVM</mark> compiler framework and published my first conference paper about computation offloading between mobile devices and servers.
+          
+          Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
+
+      - layout: top-middle
+        title: March 2017 - Present
+        link: https://snu.ac.kr
+        link_text: PhD Student, Department of Electrical and Computer Engineering, SNU 
+        additional_links:
+          - title: Department of Electrical and Computer Engineering 
+            icon: fas fa-microchip
+            url: https://ee.snu.ac.kr
+        description: I'm currently the PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</make> framework that encompasses from the user applications to the operation system kernel.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
