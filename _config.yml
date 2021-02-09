@@ -89,7 +89,7 @@ content:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
-        description: I started my college years with the <mark>physics</mark> major, but soon after I decided to pursue my old interest in <mark>computer engineering</mark> and double-major it.
+        description: I started my college years with the <mark>physics</mark> major, but soon after, I decided to pursue my old interest in <mark>computer engineering</mark> by double-majoring CSE.
 
       - layout: top-middle
         title: September 2014 - February 2017
@@ -112,7 +112,7 @@ content:
           - title: Department of Electrical and Computer Engineering 
             icon: fas fa-microchip
             url: https://ee.snu.ac.kr
-        description: I'm currently the PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</make> framework that encompasses from the user applications to the operation system kernel.
+        description: I'm currently the PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses from the user applications to the operation system kernel.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
