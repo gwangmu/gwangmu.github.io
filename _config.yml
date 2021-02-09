@@ -177,19 +177,19 @@ content:
   - title: Teaching Experience 
     layout: list 
     content:
-      - layout: top-middle
+      - layout: left 
         title: Computer Organization
         caption: Teaching Assistant
         quote: >
           Spring 2016 (POSTECH), Spring 2017/2020 (SNU) 
 
-      - layout: top-middle
+      - layout: top
         title: Digital Logic Design
         caption: Teaching Assistant
         quote: >
           Fall 2017 (SNU)
 
-      - layout: top-middle
+      - layout: right 
         title: Object Oriented Programming
         caption: Teaching Assistant
         quote: >
