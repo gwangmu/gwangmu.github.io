@@ -100,7 +100,7 @@ content:
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
         description: |
-          During my first few graduate years, I studied compiler techniques leveraging the <mark>LLVM</mark> compiler framework and published my first conference paper about computation offloading between mobile devices and servers.
+          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
           
           Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
