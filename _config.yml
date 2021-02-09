@@ -204,7 +204,7 @@ content:
 # Footer
 footer_show_references: true
 references_title: >
-  "Last update: February 9th, 2021"
+  Last update: February 9th, 2021
 
 # Build settings
 remote_theme: sproogen/resume-theme
