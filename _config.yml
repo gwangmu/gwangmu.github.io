@@ -33,7 +33,7 @@ instagram_username: cassert24
 # Additional icon links
 additional_links:
 - title: reddit
-  icon: fab fa-reddit
+  icon: fab fa-reddit-alien
   url: https://www.reddit.com/user/cassert24
 - title: mail
   icon: fab fa-mail
