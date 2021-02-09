@@ -133,13 +133,13 @@ content:
         quote: The 30th USENIX Security Symposium (Security), August 2021 *(to appear)*
 
       - layout: top-middle
-        title: Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation 
+        title: "Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation" 
         link: about:blank
         link_text: Dayeol Lee, *Gwangmu Lee*, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
         quote: The 45th International Symposium on Computer Architecture (ISCA), June 2018
 
       - layout: top-middle
-        title: DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing  
+        title: "DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing" 
         link: about:blank
         link_text: Dongju Chae, Joonsung Kim, *Gwangmu Lee*, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
         quote: 2018 USENIX Annual Technical Conference (ATC), June 2018
