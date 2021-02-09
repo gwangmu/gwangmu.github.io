@@ -129,14 +129,14 @@ content:
       - layout: top-middle
         title: "Constraint-guided Directed Greybox Fuzzing"
         caption: >
-          Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
+          *Gwangmu Lee*, Woochul Shim, and Byoungyoung Lee  
         quote: >
           The 30th USENIX Security Symposium (Security), August 2021 [to appear]
 
       - layout: top-middle
         title: "Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation" 
         caption: >
-          Dayeol Lee, Gwangmu Lee, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
+          Dayeol Lee, *Gwangmu Lee*, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
         quote: >
           The 45th International Symposium on Computer Architecture (ISCA), June 2018
 
@@ -144,14 +144,14 @@ content:
         title: "DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing" 
         link_text: >
         caption: >
-          Dongju Chae, Joonsung Kim, Gwangmu Lee, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
+          Dongju Chae, Joonsung Kim, *Gwangmu Lee*, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
         quote: >
           2018 USENIX Annual Technical Conference (ATC), June 2018
 
       - layout: top-middle
         title: Architecture-aware Automatic Computation Offload for Native Applications  
         caption: >
-          Gwangmu Lee, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
+          *Gwangmu Lee*, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
         quote: >
           The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), December 2015
 
