@@ -175,20 +175,18 @@ content:
         link_text: >
           March 2010 - February 2014
         quote: >
-          Korea Foundation for Advanced Study (KFAS)
           Korea Student Aid Foundation (KOSAF)
 
-  - title: Miscellaneous 
+  - title: Teaching Assistant 
     layout: list 
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    content:
+      - layout: top-middle
+        description: |
+          Computer Organization (ECE322), SNU, Spring 2020.  
+          Digital Logic Design (ECE201), SNU, Fall 2017.  
+          Computer Organization (ECE322), SNU, Spring 2017.  
+          Computer Architecture (CSED311), POSTECH, Spring 2016.  
+          Object Oriented Programming (CSED232), POSTECH, Fall 2015.  
 
 # Footer
 footer_show_references: true
