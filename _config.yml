@@ -32,10 +32,10 @@ instagram_username: cassert24
 
 # Additional icon links
 additional_links:
-- title: reddit
+- title: Reddit
   icon: fab fa-reddit-alien
   url: https://www.reddit.com/user/cassert24
-- title: mail
+- title: E-mail
   icon: far fa-envelope
   url: gwangmu@snu.ac.kr
 # - title: another link
