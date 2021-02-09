@@ -53,7 +53,7 @@ additional_links:
 about_profile_image: images/gwangmu.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there! I'm a PhD student at Seoul National University (SNU). 
-  I'm currently interested in various computer security issues, especially in <mark>fuzz testing</mark>. 
+  I'm currently interested in various <mark>computer security</mark> issues, especially in fuzz testing. 
   I have previously studied <mark>compiler techniques</mark> such as offloading 
   and <mark>computer architecture</mark> issues like neuromorphic computing. 
   Please visit [System Security Laboratory (compsec)](http://compsec.snu.ac.kr), 
