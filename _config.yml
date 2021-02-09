@@ -35,9 +35,9 @@ additional_links:
 - title: Reddit link
   icon: fab fa-reddit-alien
   url: https://www.reddit.com/user/cassert24
-- title: E-mail
-  icon: far fa-envelope
-  url: "mailto:gwangmu@snu.ac.kr"
+# - title: E-mail
+#  icon: far fa-envelope
+#  url: "mailto:gwangmu@snu.ac.kr"
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
