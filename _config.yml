@@ -172,22 +172,33 @@ content:
         quote: >
           Korea Student Aid Foundation (KOSAF)
 
+  - title: Teaching Experience
+    layout: text
+    content: |
+      <center>**Teaching Assistant**
+
+      Computer Organization (ECE322), SNU, Spring 2020.  
+      Digital Logic Design (ECE201), SNU, Fall 2017.  
+      Computer Organization (ECE322), SNU, Spring 2017.  
+      Computer Architecture (CSED311), POSTECH, Spring 2016.  
+      Object Oriented Programming (CSED232), POSTECH, Fall 2015.  </center>
+
   - title: Teaching Experience 
     layout: list 
     content:
-      - layout: left 
+      - layout: top-middle 
         title: Computer Organization
         caption: Teaching Assistant
         quote: >
           Spring 2016 (POSTECH), Spring 2017/2020 (SNU) 
 
-      - layout: top
+      - layout: top-middle 
         title: Digital Logic Design
         caption: Teaching Assistant
         quote: >
           Fall 2017 (SNU)
 
-      - layout: right 
+      - layout: top-middle 
         title: Object Oriented Programming
         caption: Teaching Assistant
         quote: >
