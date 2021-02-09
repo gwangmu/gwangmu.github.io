@@ -92,7 +92,10 @@ content:
         quote: >
           Pohang University of Science and Technology (POSTECH) is a research university in Pohang, South Korea.
           Founded in 1986, POSTECH has been maintaining its reputation as one of the most prominent young universities in the world, being 1st in Times Higher Education "100 Under 50 Young Univ." rankings 2014.
-        description: I used to develop video games in a small college group, and this led me to double-major computer engineering.
+        description: >
+          I started my college years with the physics major, but I grew my interest in computer science while developing indie video games with Microsoft XNA.
+
+          After finding myself more enthusiastic to computer engineering than physics, I decided to double-major computer engineering and take the path as a computer engineer. 
 
       - layout: left 
         title: POSTECH
