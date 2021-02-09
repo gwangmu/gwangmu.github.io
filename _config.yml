@@ -94,7 +94,6 @@ content:
           Founded in 1986, POSTECH has been maintaining its reputation as one of the most prominent young universities in the world, being 1st in Times Higher Education "100 Under 50 Young Univ." rankings 2014.
         description: >
           I started my college years with the physics major, but I grew my interest in computer science while developing indie video games with Microsoft XNA.
-
           After finding myself more enthusiastic to computer engineering than physics, I decided to double-major computer engineering and take the path as a computer engineer. 
 
       - layout: left 
@@ -106,7 +105,7 @@ content:
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
         description: > 
-          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
+          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading.
           Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
       - layout: left 
