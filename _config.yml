@@ -177,21 +177,27 @@ content:
         quote: >
           Korea Student Aid Foundation (KOSAF)
 
-  - title: Teaching Assistant 
+  - title: Teaching Experience 
     layout: list 
     content:
       - layout: top-middle
         title: Computer Organization
+        link: https://null
+        link_text: Teaching Assistant
         quote: >
           Spring 2020, Spring 2017 (SNU), Spring 2016 (POSTECH) 
 
       - layout: top-middle
         title: Digital Logic Design
+        link: https://null
+        link_text: Teaching Assistant
         quote: >
           Fall 2017 (SNU)
 
       - layout: top-middle
         title: Object Oriented Programming
+        link: https://null
+        link_text: Teaching Assistant
         quote: >
           Fall 2015 (POSTECH)
 
