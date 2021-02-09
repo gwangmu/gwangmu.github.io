@@ -81,7 +81,7 @@ content:
       - layout: top-middle
         title: March 2010 - August 2014
         link: https://postech.ac.kr
-        link_text: B.S., Department of Physics and Department of Computer Science and Engineering, POSTECH
+        link_text: B.S., Department of Physics & Department of Computer Science and Engineering, POSTECH (Double major)
         additional_links:
           - title: Department of Physics
             icon: fas fa-atom
@@ -89,7 +89,7 @@ content:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
-        description: I started my college years with the <mark>physics</mark> major, but soon after, I decided to pursue my old interest in <mark>computer engineering</mark> by double-majoring CSE.
+        #description: I started my college years with the <mark>physics</mark> major, but soon after, I decided to pursue my old interest in <mark>computer engineering</mark> by double-majoring CSE.
 
       - layout: top-middle
         title: September 2014 - February 2017
