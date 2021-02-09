@@ -111,7 +111,7 @@ content:
           - title: Department of Electrical and Computer Engineering 
             icon: fas fa-microchip
             url: https://ee.snu.ac.kr
-        description: I'm currently pursuing my PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses from the user applications to the operation system kernel.
+        description: I'm currently pursuing my PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses the entire software stack, including user applications and OS kernels.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
