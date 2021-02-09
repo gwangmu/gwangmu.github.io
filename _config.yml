@@ -150,7 +150,7 @@ content:
         link_text: *Gwangmu Lee*, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
         quote: The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), December 2015
 
-  - title: Publications
+  - title: Miscellaneous 
     layout: list 
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
