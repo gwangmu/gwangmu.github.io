@@ -91,7 +91,7 @@ content:
             url: https://cse.postech.ac.kr
         quote: >
           Pohang University of Science and Technology (POSTECH) is a research university in Pohang, South Korea.
-          Founded in 1986, POSTECH has been maintaining its reputation as one of the most prominent young research universities in the world, being 1st in Times Higher Education "100 Under 50 Young Universities" rankings 2014.
+          Founded in 1986, POSTECH has been maintaining its reputation as one of the most prominent young research universities in the world, being 1st in Times Higher Education "100 Under 50 Young Univ." rankings 2014.
         description: I used to develop video games in a small college group, and this led me to double-major computer engineering.
 
       - layout: left 
@@ -103,8 +103,8 @@ content:
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
         description: > 
-          During my first few graduate years, I studied various compiler techniques using *LLVM* and published my first conference paper about computation offloading between mobile devices and servers.
-          Later, I switched my interest to *computer architecture* and worked on designing energy-efficient neuromorphic circuits.
+          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
+          Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
       - layout: left 
         title: Seoul National University
