@@ -105,7 +105,7 @@ content:
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
         description: > 
-          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading in MICRO.
+          During my first few graduate years, I studied various <mark>compiler techniques</mark> using LLVM and published my first conference paper about computation offloading in MICRO.
           Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
       - layout: left 
@@ -121,7 +121,7 @@ content:
           Founded in 1946, Seoul National University is considered to be the most prestigious university in the country.
         description: >
           I'm currently pursuing my PhD degree in <mark>computer security</mark>. 
-          By leveraging my expertise on compilers and computer systems, I'm currently aiming at building a system-wide <mark>fuzzing</mark> framework that encompasses the entire software stack, including user applications and OS kernels.
+          By leveraging my expertise on compilers and computer systems, I'm currently aiming at building a system-wide fuzzing framework that encompasses the entire software stack, including user applications and OS kernels.
 
   - title: Publications
     layout: list
