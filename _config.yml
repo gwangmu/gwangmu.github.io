@@ -130,7 +130,7 @@ content:
         title: "Constraint-guided Directed Greybox Fuzzing"
         link: https://www.usenix.org/conference/usenixsecurity21 
         link_text: >
-          <mark>Gwangmu Lee</mark>, Woochul Shim, and Byoungyoung Lee  
+          Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
         quote: >
           The 30th USENIX Security Symposium (Security), August 2021
 
@@ -138,7 +138,7 @@ content:
         title: "Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation" 
         link: https://iscaconf.org/isca2018/
         link_text: >
-          Dayeol Lee, <mark>Gwangmu Lee</mark>, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
+          Dayeol Lee, Gwangmu Lee, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
         quote: >
           The 45th International Symposium on Computer Architecture (ISCA), June 2018
 
@@ -146,7 +146,7 @@ content:
         title: "DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing" 
         link: https://www.usenix.org/conference/atc18
         link_text: >
-          Dongju Chae, Joonsung Kim, <mark>Gwangmu Lee</mark>, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
+          Dongju Chae, Joonsung Kim, Gwangmu Lee, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
         quote: >
           2018 USENIX Annual Technical Conference (ATC), June 2018
 
@@ -154,7 +154,7 @@ content:
         title: Architecture-aware Automatic Computation Offload for Native Applications  
         link: https://www.microarch.org/micro48/
         link_text: >
-          <mark>Gwangmu Lee</mark>, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
+          Gwangmu Lee, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
         quote: >
           The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), December 2015
 
