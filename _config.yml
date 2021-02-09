@@ -181,12 +181,12 @@ content:
     layout: list 
     content:
       - layout: top-middle
-        quote: | 
-          Computer Organization (ECE322), SNU, Spring 2020.  
+        description: | 
+          <center>Computer Organization (ECE322), SNU, Spring 2020.</center>  
 
-          Digital Logic Design (ECE201), SNU, Fall 2017.  
+          <center>Digital Logic Design (ECE201), SNU, Fall 2017.</center>   
 
-          Computer Organization (ECE322), SNU, Spring 2017.  
+          <center>Computer Organization (ECE322), SNU, Spring 2017.</center>  
 
           Computer Architecture (CSED311), POSTECH, Spring 2016.  
 
