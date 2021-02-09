@@ -208,8 +208,7 @@ content:
           there were not many game development tools for people who are not accustomed to
           programming. This was especially a tough challenge for a college group, as lots of
           new members (i.e., freshmens) do not have preliminary knowledge of basic programming.
-          This prompted me to design a simple game development framework (essentially a Direct 11
-          wrapper) that any new C/C++ beginners can easily access.
+          This prompted me to design a simple game development framework that any new C/C++ beginners can easily access.
 
           Now that there are many convenient game development tools like Unity,
           this framework is arguably no longer relevant, but I thought it's worth mentioning here
