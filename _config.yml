@@ -172,17 +172,6 @@ content:
         quote: >
           Korea Student Aid Foundation (KOSAF)
 
-  - title: Teaching Experience
-    layout: text
-    content: |
-      **Teaching Assistant**
-
-      Computer Organization (ECE322), SNU, Spring 2020.  
-      Digital Logic Design (ECE201), SNU, Fall 2017.  
-      Computer Organization (ECE322), SNU, Spring 2017.  
-      Computer Architecture (CSED311), POSTECH, Spring 2016.  
-      Object Oriented Programming (CSED232), POSTECH, Fall 2015.  
-
   - title: Teaching Experience 
     layout: list 
     content:
@@ -203,6 +192,28 @@ content:
         caption: Teaching Assistant
         quote: >
           Fall 2015 (POSTECH)
+
+  - title: Miscellaneous Stuff 
+    layout: list 
+    content: 
+      - layout: left 
+        title: Jokebox 
+        caption: Game development framework for C/C++ beginners
+        additional_links:
+          - title: Jokebox blog
+            icon: fas fa-globe
+            url: https://jokebox24.blog.me
+        description: |
+          During when I was a committee member of the college game development group,
+          there were not many game development tools for people who are not accustomed to
+          programming. This is especially a tough challenge for a college group, as lots of
+          new group members do not have preliminary knowledge of basic programming.
+          So I decided to design a simple game development framework (essentially a Direct 11
+          wrapper) that any new C/C++ beginners can easily access.
+
+          Now that there are many convenient game development tools like Unity,
+          this framework is arguably no longer relevant, but I thought it's worth mentioning here
+          as my first attempt to solve a real problem with a software solution.
 
 # Footer
 footer_show_references: true
