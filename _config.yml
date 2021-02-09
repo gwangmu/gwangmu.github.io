@@ -160,16 +160,14 @@ content:
     content:
       - layout: top-middle
         title: "26th Graduate Scholarship Student" 
-        link: https://www.kfas.or.kr/
-        link_text: >
+        caption: >
           March 2015 - February 2020
         quote: >
           Korea Foundation for Advanced Study (KFAS)
 
       - layout: top-middle
         title: "National Science and Engineering Scholarship"
-        link: https://www.kosaf.go.kr/
-        link_text: >
+        caption: >
           March 2010 - February 2014
         quote: >
           Korea Student Aid Foundation (KOSAF)
