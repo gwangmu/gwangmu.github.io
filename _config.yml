@@ -87,8 +87,10 @@ content:
         additional_links:
           - title: Department of Physics
             icon: fas fa-atom
+            url: https://ph.postech.ac.kr
           - title: Department of Computer Science and Engineering 
             icon: far fa-computer-speaker
+            url: https://cse.postech.ac.kr
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
