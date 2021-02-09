@@ -81,9 +81,7 @@ content:
       - layout: top-middle
         title: March 2010 - August 2014
         link: |
-          *B.S.*, Department of Physics, POSTECH.
-
-          *B.S.*, Department of Computer Science and Engineering, POSTECH
+          B.S., Department of Physics and Department of Computer Science and Engineering, POSTECH
         additional_links:
           - title: Department of Physics
             icon: fas fa-atom
