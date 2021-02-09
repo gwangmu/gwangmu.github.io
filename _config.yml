@@ -61,27 +61,27 @@ about_content: | # this will include new lines to allow paragraphs
   for more ongoing security-related research topics.
 
 content:
+  #- title: Education # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      title: Harvard University
+  #      caption: 2010 - 2013
+  #      sub_title: BSc Computer Science
+  #      quote: >
+  #        Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #      description: | # this will include new lines to allow paragraphs
+  #        During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+  #
+  #        I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: March 2010 - August 2014
-        link: https://postech.ac.kr
-        link_text: B.S., Department of Physics & Department of Computer Science and Engineering (Double major), POSTECH
+      - layout: left 
+        title: Pohang University of Science and Technology (POSTECH)
+        caption: March 2010 - August 2014
+        sub_title: B.S. in Physics & Computer Science and Engineering (Double major)
         additional_links:
           - title: Department of Physics
             icon: fas fa-atom
@@ -91,10 +91,10 @@ content:
             url: https://cse.postech.ac.kr
         description: I used to develop video games in a small college group, and this led me to double-major computer engineering.
 
-      - layout: top-middle
-        title: September 2014 - February 2017
-        link: https://postech.ac.kr
-        link_text: M.S., Department of Computer Science and Engineering, POSTECH
+      - layout: left 
+        title: Pohang University of Science and Technology (POSTECH)
+        caption: September 2014 - February 2017
+        sub_title: M.S. in Computer Science and Engineering 
         additional_links:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
@@ -103,15 +103,17 @@ content:
           During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
           Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
-      - layout: top-middle
-        title: March 2017 - Present
-        link: https://snu.ac.kr
-        link_text: PhD Student, Department of Electrical and Computer Engineering, SNU 
+      - layout: left 
+        title: Seoul National University (SNU)
+        caption: March 2017 - Present
+        sub_title: PhD Student in Electrical and Computer Engineering
         additional_links:
           - title: Department of Electrical and Computer Engineering 
             icon: fas fa-microchip
             url: https://ee.snu.ac.kr
-        description: I'm currently pursuing my PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses the entire software stack, including user applications and OS kernels.
+        description: >
+          I'm currently pursuing my PhD degree in <mark>computer security</mark>. 
+          By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses the entire software stack, including user applications and OS kernels.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
