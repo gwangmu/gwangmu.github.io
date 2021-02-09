@@ -33,7 +33,7 @@ instagram_username: cassert24
 # Additional icon links
 additional_links:
 - title: reddit
-  icon: fas fa-reddit
+  icon: fab fa-reddit
   url: https://www.reddit.com/user/cassert24
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
