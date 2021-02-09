@@ -207,11 +207,11 @@ content:
           During when I was a committee member of the college game development group,
           there were not many game development tools for people who are not accustomed to
           programming. This was especially a tough challenge for a college group, as lots of
-          new members (i.e., freshmens) do not have preliminary knowledge of basic programming.
+          new members (i.e., freshmen) do not have preliminary knowledge of basic programming.
           This prompted me to design a simple game development framework that any new C/C++ beginners can easily access.
 
           Now that there are many convenient game development tools like Unity,
-          this framework is arguably no longer relevant, but I thought it's worth mentioning here
+          this framework is arguably no longer relevant. However, I thought it's still worth mentioning here
           as my first attempt to solve a real problem with a software solution.
 
 # Footer
