@@ -80,7 +80,7 @@ content:
     content:
       - layout: left 
         title: POSTECH
-        caption: March 2010 - August 2014
+        caption: Mar 2010 - Aug 2014
         sub_title: B.S. in Physics & Computer Science and Engineering
         additional_links:
           - title: Department of Physics
@@ -96,19 +96,19 @@ content:
 
       - layout: left 
         title: POSTECH
-        caption: September 2014 - February 2017
+        caption: Sep 2014 - Feb 2017
         sub_title: M.S. in Computer Science and Engineering 
         additional_links:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
         description: > 
-          During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
-          Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
+          During my first few graduate years, I studied various compiler techniques using *LLVM* and published my first conference paper about computation offloading between mobile devices and servers.
+          Later, I switched my interest to *computer architecture* and worked on designing energy-efficient neuromorphic circuits.
 
       - layout: left 
         title: Seoul National University
-        caption: March 2017 - Present
+        caption: Mar 2017 - Present
         sub_title: PhD Student in Electrical and Computer Engineering
         additional_links:
           - title: Department of Electrical and Computer Engineering 
