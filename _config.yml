@@ -50,11 +50,15 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/gwangmu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi there! I'm a Ph.D. student at Seoul National University (SNU). 
+  I'm currently interested in various computer security issues, especially in <mark>fuzz testing</mark>. 
+  I have previously studied <mark>compiler techniques</mark> such as offloading 
+  and <mark>computer architecture</mark> issues like neuromorphic computing. 
+  Please visit [System Security Laboratory (compsec)](http://compsec.snu.ac.kr), 
+  my research group led by my advisor [Byoungyoung Lee](http://lifeasageek.github.io), 
+  for more ongoing security-related research topics.
 
 content:
   - title: Projects # Title for the section
