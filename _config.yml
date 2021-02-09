@@ -28,13 +28,13 @@ instagram_username: cassert24
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-reddit_username: cassert
+# reddit_username: cassert
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: reddit
+  icon: fas fa-reddit
+  url: https://www.reddit.com/user/cassert24
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
