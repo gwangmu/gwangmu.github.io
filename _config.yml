@@ -179,22 +179,19 @@ content:
     content:
       - layout: top-middle
         title: Computer Organization
-        link: https://null
-        link_text: Teaching Assistant
+        caption: Teaching Assistant
         quote: >
           Spring 2016 (POSTECH), Spring 2017/2020 (SNU) 
 
       - layout: top-middle
         title: Digital Logic Design
-        link: https://null
-        link_text: Teaching Assistant
+        caption: Teaching Assistant
         quote: >
           Fall 2017 (SNU)
 
       - layout: top-middle
         title: Object Oriented Programming
-        link: https://null
-        link_text: Teaching Assistant
+        caption: Teaching Assistant
         quote: >
           Fall 2015 (POSTECH)
 
