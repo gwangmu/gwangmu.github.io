@@ -99,9 +99,8 @@ content:
           - title: Department of Computer Science and Engineering 
             icon: fas fa-laptop-code
             url: https://cse.postech.ac.kr
-        description: |
+        description: > 
           During my first few graduate years, I studied various compiler techniques using <mark>LLVM</mark> and published my first conference paper about computation offloading between mobile devices and servers.
-          
           Later, I switched my interest to <mark>computer architecture</mark> and worked on designing energy-efficient neuromorphic circuits.
 
       - layout: top-middle
@@ -112,7 +111,7 @@ content:
           - title: Department of Electrical and Computer Engineering 
             icon: fas fa-microchip
             url: https://ee.snu.ac.kr
-        description: I'm currently the PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses from the user applications to the operation system kernel.
+        description: I'm currently pursuing my PhD degree in <mark>computer security</mark>. By leveraging my expertise on compilers and computer systems, I'm currently aiming to build a system-wide <mark>fuzzing</mark> framework that encompasses from the user applications to the operation system kernel.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
