@@ -127,12 +127,12 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: "Constraint-guided Directed Greybox Fuzzing (to appear)"
+        title: "Constraint-guided Directed Greybox Fuzzing"
         link: https://www.usenix.org/conference/usenixsecurity21 
         link_text: >
           Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
         quote: >
-          The 30th USENIX Security Symposium (Security), August 2021
+          The 30th USENIX Security Symposium (Security), August 2021 [to appear]
 
       - layout: top-middle
         title: "Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation" 
