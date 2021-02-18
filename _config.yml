@@ -193,6 +193,12 @@ content:
   - title: Teaching Experience 
     layout: list 
     content:
+      - layout: top-middle
+        title: Introduction to Programming
+        caption: Instructor
+        quote: >
+          Winter 2014 (C, Dongji Highschool), Summer 2015 (Python, Dongji Highschool)
+
       - layout: top-middle 
         title: Computer Organization
         caption: Teaching Assistant
