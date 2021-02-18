@@ -133,7 +133,7 @@ content:
             icon: fas fa-file-alt
             url: https://gwangmu.github.io/papers/sec21-gwangmu-cdgf.pdf 
         caption: >
-          Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
+          <mark>Gwangmu Lee</mark>, Woochul Shim, and Byoungyoung Lee  
         quote: >
           The 30th USENIX Security Symposium (Security), August 2021 [to appear]
 
@@ -144,7 +144,7 @@ content:
             icon: fas fa-file-alt
             url: https://gwangmu.github.io/papers/isca18-dayeol-flexon.pdf 
         caption: >
-          Dayeol Lee, Gwangmu Lee, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
+          Dayeol Lee, <mark>Gwangmu Lee</mark>, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
         quote: >
           The 45th International Symposium on Computer Architecture (ISCA), June 2018
 
@@ -155,7 +155,7 @@ content:
             icon: fas fa-file-alt
             url: https://gwangmu.github.io/papers/atc18-chae-dynamix.pdf 
         caption: >
-          Dongju Chae, Joonsung Kim, Gwangmu Lee, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
+          Dongju Chae, Joonsung Kim, <mark>Gwangmu Lee</mark>, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
         quote: >
           2018 USENIX Annual Technical Conference (ATC), June 2018
 
@@ -169,7 +169,7 @@ content:
             icon: fas fa-file-powerpoint
             url: https://gwangmu.github.io/slides/micro15-gwangmu-offload.pdf 
         caption: >
-          Gwangmu Lee, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
+          <mark>Gwangmu Lee</mark>, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
         quote: >
           The 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), December 2015
 
