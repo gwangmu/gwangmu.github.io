@@ -131,7 +131,7 @@ content:
         additional_links:
           - title: Paper 
             icon: fas fa-file-alt
-            url: https://gwangmu.github.io/papers/sec21-lee-cdgf.pdf 
+            url: https://gwangmu.github.io/papers/sec21-gwangmu-cdgf.pdf 
         caption: >
           Gwangmu Lee, Woochul Shim, and Byoungyoung Lee  
         quote: >
@@ -139,6 +139,10 @@ content:
 
       - layout: top-middle
         title: "Flexon: A Cost-Effective Digital Neuron for Flexible Spiking Neural Network Simulation" 
+        additional_links:
+          - title: Paper 
+            icon: fas fa-file-alt
+            url: https://gwangmu.github.io/papers/isca18-dayeol-flexon.pdf 
         caption: >
           Dayeol Lee, Gwangmu Lee, Sunghwa Lee, Dongup Kwon, Youngsok Kim, and Jangwoo Kim  
         quote: >
@@ -146,7 +150,10 @@ content:
 
       - layout: top-middle
         title: "DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing" 
-        link_text: >
+        additional_links:
+          - title: Paper 
+            icon: fas fa-file-alt
+            url: https://gwangmu.github.io/papers/atc18-chae-dynamix.pdf 
         caption: >
           Dongju Chae, Joonsung Kim, Gwangmu Lee, Hanjun Kim, Kyung-Ah Chang, Hyogun Lee, and Jangwoo Kim  
         quote: >
@@ -154,6 +161,13 @@ content:
 
       - layout: top-middle
         title: Architecture-aware Automatic Computation Offload for Native Applications  
+        additional_links:
+          - title: Paper 
+            icon: fas fa-file-alt
+            url: https://gwangmu.github.io/papers/micro15-gwangmu-offload.pdf 
+          - title: Paper 
+            icon: fas fa-file-powerpoint
+            url: https://gwangmu.github.io/slides/micro15-gwangmu-offload.pdf 
         caption: >
           Gwangmu Lee, Hyunjoon Park, Seonyeong Heo, Kyung-Ah Chang, Hyogun Lee, and Hanjun Kim  
         quote: >
