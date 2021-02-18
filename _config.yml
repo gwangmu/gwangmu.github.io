@@ -165,7 +165,7 @@ content:
           - title: Paper 
             icon: fas fa-file-alt
             url: https://gwangmu.github.io/papers/micro15-gwangmu-offload.pdf 
-          - title: Paper 
+          - title: Presentation 
             icon: fas fa-file-powerpoint
             url: https://gwangmu.github.io/slides/micro15-gwangmu-offload.pdf 
         caption: >
