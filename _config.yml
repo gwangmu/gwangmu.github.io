@@ -247,8 +247,8 @@ content:
             url: https://github.com/gwangmu/mini-excel
         description: |
           This is a small class project I made when I was the teaching assistant of the "Object-oriented Programming" class at POSTECH.
-          When I took charge of the TA position, most of the class projects are the toy projects that focus on practicing the language (C++) itself and
-          merely relevant to real-world usages. That prompted me to design at least one decent class project that resembles the real-world OOP,
+          When I took charge of the TA position, most of the class projects focus on practicing the language (C++) itself and
+          merely close to the real-world usages. That prompted me to design at least one decent class project that resembles the real-world OOP,
           but still easy enought for students to pick up and work on.
 
 
