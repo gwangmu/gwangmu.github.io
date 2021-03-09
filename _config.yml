@@ -262,8 +262,7 @@ content:
             icon: fas fa-globe
             url: https://www.codeproject.com/Tips/5296195/Not-So-Common-C-Syntax-Extension-to-the-Rescue-or
         quote: | 
-          In this post, you will find some C syntax/extensions that I somehow stumbled upon. 
-          Some are actively used in some fields, but the others still have their own interesting aspects.
+          Some are actively being used in some fields, but the others still have their own interesting aspects.
 
 # Footer
 footer_show_references: true
