@@ -254,7 +254,7 @@ content:
   - title: Technical Blogs 
     layout: list 
       - layout: left
-        title: Not-So-Common C Syntax/Extension to the Rescue (or Just for Fun)
+        title: Not-So-Common C Syntax/Extension to the Rescue
         caption: Take a quick look at uncommon-ish C syntax and extensions.
         additional_linnks:
           - title: CodeProject Link
