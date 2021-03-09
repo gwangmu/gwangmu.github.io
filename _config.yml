@@ -261,10 +261,10 @@ content:
           - title: CodeProject Link
             icon: fas fa-globe
             url: https://www.codeproject.com/Tips/5296195/Not-So-Common-C-Syntax-Extension-to-the-Rescue-or
-        description: >
-          In this post, you will find some C syntax/extensions that I somehow 
-          stumbled upon. Some are being actively used in some fields such as 
-          the Linux kernel, but the others still have their own interesting aspects.
+        description: | 
+          In this post, you will find some C syntax/extensions that I somehow stumbled upon. 
+
+          Some are being actively used in some fields such as the Linux kernel, but the others still have their own interesting aspects.
 
 # Footer
 footer_show_references: true
