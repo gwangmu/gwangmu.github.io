@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Software Engineer @ <a href="https://cscs.ch/">Swiss National Computing Centre (CSCS)</a>.
+subtitle: Software Engineer @ <a href="https://cscs.ch/">Swiss National Computing Centre (CSCS)</a>.
 
 profile:
   align: right
