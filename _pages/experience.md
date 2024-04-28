@@ -4,6 +4,7 @@ permalink: /experience/
 title: experience 
 description: Education, recognition, teaching experience, etc. 
 nav: true
+nav_order: 2
 ---
 
 ### Education

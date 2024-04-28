@@ -7,6 +7,7 @@ description: Software Engineer @ <a href="https://cscs.ch/">Swiss National Compu
 profile:
   align: right
   image: gwangmu.jpg
+  image_circular: false
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
