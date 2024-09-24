@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 "A Comparative Quality Metric for Untargeted Fuzzing with Logic State Coverage"
-has been uploaded to arXiv. Please get in touch with about collaborating on
-unfinished jobs.
+has been uploaded to arXiv. Please contact me about collaborating on unfinished
+jobs.
