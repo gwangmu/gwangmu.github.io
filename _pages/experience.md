@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /experience/
-title: experience 
-description: Education, recognition, teaching experience, etc. 
+title: experience
+description: Education, recognition, teaching experience, etc.
 nav: true
 nav_order: 2
 ---
@@ -34,7 +34,7 @@ nav_order: 2
   [[slide](https://docs.google.com/presentation/d/1-_lxbcNGLgVj92A-U49oD93TFbSzZn2HMBoLGUZkPfQ/edit?usp=sharing)]
 
 > **Abstract**
-> 
+>
 > With the threats to cybersecurity ever-increasing, prematurely detecting
 > vulnerabilities in software systems is deemed as one of the promising ways to
 > thwart exploitation attempts from attackers at the fundamental level. In this
@@ -42,4 +42,4 @@ nav_order: 2
 > historical evolution of vulnerability detection techniques (i.e., how it has
 > evolved up until now). Finally, we go over the current most popular
 > vulnerability detection technique (i.e., fuzzing) and discuss its possible
-> future development. 
+> future development.

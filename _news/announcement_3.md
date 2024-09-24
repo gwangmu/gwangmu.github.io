@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I moved to [HexHive](https://hexhive.epfl.ch) at EPFL as a post-doc researcher. 
+I moved to [HexHive](https://hexhive.epfl.ch) at EPFL as a post-doc researcher.
